@@ -4,6 +4,8 @@ Abweichungsbericht für eine **fiktive** Verpackungslinie (Northwind Snacks, Lin
 
 > Demo mit erfundenen Daten. Kein echtes System. Alle Firmen, Personen, Aufträge und Chargen sind ausgedacht.
 
+Live: https://deviation-report-demo.vercel.app
+
 ## Funktionen
 
 - Formular in 8 Abschnitten: Was ist passiert · Ort/Linie/Maschine · Zeitpunkt · Auftrag/Charge · Auswirkung/Risiko · Sofortmaßnahme · Ursache (vorläufig) · Unterschriften
