@@ -3,3 +3,4 @@ dist/
 *.zip
 coverage/
 versions/
+.vercel/
